@@ -10,8 +10,8 @@ to be able to test deployments using the samson software.
 
 2014.06.18: currently an empty repo, there isn't anything to do here right now.
 
-Settings and values that imply anything more sophisticated than a test repo is
-in place at present simply to test these attributes.
+The files and settings that are currently in place are there simply to test github
+use and standard operations.
 
 
 ### Team
