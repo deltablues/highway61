@@ -10,7 +10,7 @@ to be able to test deployments using the samson software.
 
 2014.06.18: currently an empty repo, there isn't anything to do here right now.
 
-Settings and values that imply anything more sophisticated than a test repo are
+Settings and values that imply anything more sophisticated than a test repo is
 in place at present simply to test these attributes.
 
 
