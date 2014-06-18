@@ -16,4 +16,4 @@ in place at present simply to test these attributes.
 
 ### Team
 
-Core team is [@indianola](https://githum.com/indianola)
+Core team is [@indianola](https://github.com/indianola)
