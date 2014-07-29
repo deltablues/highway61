@@ -14,6 +14,8 @@ The files and settings that are currently in place are there simply to test gith
 use and standard operations.
 
 
+2014.07.28: modify this file on the branch pob/first_branch, commit locally and push to remote, after which I'll see how a PR can be used on this branch.
+
 ### Team
 
 Core team is [@indianola](https://github.com/indianola)
